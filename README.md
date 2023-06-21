@@ -3,7 +3,7 @@
 
 ### Тестовое задание к лекции «Командная работа в Git & GitHub. Часть 2.»
 
-Я прохожу обучение в [Нетологии] (https://netology.ru/) по курсу [Тестировщик ПО] (https://netology.ru/programs/qa)
+Я прохожу обучение в [Нетологии](https://netology.ru/) по курсу [Тестировщик ПО](https://netology.ru/programs/qa)
 
 ![Alt text](i.webp)
 
